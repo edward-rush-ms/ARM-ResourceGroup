@@ -3,19 +3,21 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "ResourceGroupName": {
-            "type": "string"
+            "type": "string",
+            "metadata": { "description": "The Resource Group Name." }
         },
         "Location": {
-            "type": "string"
+            "type": "string",
+            "metadata": { "description": "The Location for the Resource Group." }
         }
     },
     "variables": {},
     "resources": [
         {
-            "comments": "https://docs.microsoft.com/en-us/azure/templates/microsoft.resources/2020-06-01/resourcegroups",
+            "comments": "https://docs.microsoft.com/en-us/azure/templates/microsoft.resources/2018-05-01/resourcegroups",
             "name": "[parameters('ResourceGroupName')]",
             "type": "Microsoft.Resources/resourceGroups",
-            "apiVersion": "2020-06-01",
+            "apiVersion": "2018-05-01",
             "location": "[parameters('Location')]",
             "properties": {},
             "tags": {}
