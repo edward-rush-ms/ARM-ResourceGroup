@@ -14,7 +14,6 @@
     "variables": {},
     "resources": [
         {
-            "comments": "https://docs.microsoft.com/en-us/azure/templates/microsoft.resources/2018-05-01/resourcegroups",
             "name": "[parameters('ResourceGroupName')]",
             "type": "Microsoft.Resources/resourceGroups",
             "apiVersion": "2018-05-01",
