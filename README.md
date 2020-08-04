@@ -33,3 +33,9 @@ The basic root of the ARM Template
 - [Azure Resource Manager](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools)
 - [AzSK (Secure DevOps Kit for Azure)](https://aka.ms/devopskit/baseline)
 - [Visual Studio Security IntelliSense](https://github.com/azsk/DevOpsKit-docs/blob/master/02-Secure-Development/Readme.md#security-intellisense-dev-secintel-1)
+
+
+# Microsoft GitHub
+- [Microsoft GitHub Registration Guide](https://microsoftapc.sharepoint.com/:w:/r/teams/Selfhost-VisionAIDevKit/_layouts/15/doc2.aspx?sourcedoc=%7B4C91E1B5-80B2-433F-BB40-C1C8FD49AAEB%7D&file=MicrosoftGitHub-RegistrationGuide.docx&action=default&mobileredirect=true&DefaultItemOpen=1&cid=3f3ae1cf-90e1-45ca-9d33-03b89972cf09)
+- [GitHub Inside Microsoft](https://microsoft.sharepoint.com/teams/GitHubInsideMicrosoft)
+- [Early Adopters](https://aka.ms/1es/github/early-adopters)
