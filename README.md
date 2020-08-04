@@ -25,3 +25,9 @@ The basic root of the ARM Template
 
 # Type Links
 - [Microsoft.Resources/resourceGroups](https://docs.microsoft.com/en-us/azure/templates/microsoft.resources/2020-06-01/resourcegroups)
+
+# Extensions
+- [ARM Parameter Generator](https://marketplace.visualstudio.com/items?itemName=wilfriedwoivre.arm-params-generator)
+- [ARM Template Viewer](https://marketplace.visualstudio.com/items?itemName=bencoleman.armview)
+- [Markdown All in One] (https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+- [Azure Resource Manager](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools)
