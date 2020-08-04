@@ -29,5 +29,5 @@ The basic root of the ARM Template
 # Extensions
 - [ARM Parameter Generator](https://marketplace.visualstudio.com/items?itemName=wilfriedwoivre.arm-params-generator)
 - [ARM Template Viewer](https://marketplace.visualstudio.com/items?itemName=bencoleman.armview)
-- [Markdown All in One] (https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [Azure Resource Manager](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools)
