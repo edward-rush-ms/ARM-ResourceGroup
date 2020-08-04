@@ -31,3 +31,5 @@ The basic root of the ARM Template
 - [ARM Template Viewer](https://marketplace.visualstudio.com/items?itemName=bencoleman.armview)
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [Azure Resource Manager](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools)
+- [AzSK (Secure DevOps Kit for Azure)](https://aka.ms/devopskit/baseline)
+- [Visual Studio Security IntelliSense](https://github.com/azsk/DevOpsKit-docs/blob/master/02-Secure-Development/Readme.md#security-intellisense-dev-secintel-1)
